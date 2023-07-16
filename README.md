@@ -31,7 +31,7 @@ A remix album consisting of 22 individual tracks reflecting on themes and mechan
 
 # Where are the final files?
 
-Both lossy compressed versions in M4A, MP3 as well as lossless compressed versions in FLAC with Metadata will be provided in both the "RC" directory and as discrete releases
+Lossless compressed versions in FLAC with Metadata will be provided in both the "RC" directory and as discrete releases
 
 # What else?
 
