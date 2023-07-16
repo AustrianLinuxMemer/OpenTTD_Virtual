@@ -1,0 +1,11 @@
+REV
+opensfx-
+opensfx.obs
+.orig
+.rej
+opensfx.cat
+opensfx
+opensfx.tar
+docs/readme.txt
+Makefile.fordist
+src/opensfx.sfo

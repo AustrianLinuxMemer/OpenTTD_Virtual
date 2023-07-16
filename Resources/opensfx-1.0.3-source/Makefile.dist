@@ -1,0 +1,14 @@
+################################################################
+# Definitions needed for tar releases
+# This part is automatically generated
+################################################################
+REPO_VERSION := 1.0.3
+REPO_REVISION := 7974
+NEWGRF_VERSION := 7974
+REPO_HASH := 4332d7f216eece2e6417f284b00afb832126433d
+REPO_VERSION_STRING := 1.0.3
+REPO_TITLE := OpenSFX 1.0.3
+REPO_DATE := 20211031
+REPO_BRANCH := 
+GIT := :
+PYTHON := :
